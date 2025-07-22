@@ -4,6 +4,8 @@
 
 Analyse des playlists officielles nth.radio et organisation des nouveaux morceaux.
 
+---
+
 ## Utilisation
 
 1. Téléchargez Python 3.7+
